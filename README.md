@@ -1,6 +1,6 @@
-## modules
+## Modules
 Early practice creating module exports with Node.js.
 
-### authors
+### Authors
 Lindsey Olson & Hogan McDonald
 5/23/2017
